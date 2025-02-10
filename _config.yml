@@ -21,6 +21,7 @@ title: Go Karting
 
 navbar-links:
   Results: "results"
+  Leaderboard: "leaderboard"
 
 ################
 # --- Logo --- #
