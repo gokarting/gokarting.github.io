@@ -10,8 +10,6 @@ This page contains the final race standings, including each racer's position, na
 
 ### Group 1 - Grand Prix
 
-<div style="overflow-x: auto;">
-
 | Position | Driver Name                          | Best Lap (s) | Gap  |
 |----------|-------------------------------------|--------------|------|
 | 1st      | Guilherme Mello                     | 69.691       | —    |
@@ -35,11 +33,7 @@ This page contains the final race standings, including each racer's position, na
 | 19th     | Thiago Matheus                     | 99.937       | +11  |
 | 20th     | Evelin Maier                       | 84.207       | +17  |
 
-</div>
-
 ### Group 1 - Qualifying
-
-<div style="overflow-x: auto;">
 
 | Position | Driver Name                          | Best Lap (s) | Gap    |
 |----------|-------------------------------------|--------------|--------|
@@ -64,11 +58,7 @@ This page contains the final race standings, including each racer's position, na
 | 19th     | Denise Oliveira                    | 93.726       | 45.941 |
 | 20th     | Thiago Matheus                     | 120.415      | 54.336 |
 
-</div>
-
 ### Group 2 - Grand Prix
-
-<div style="overflow-x: auto;">
 
 | Position | Driver Name                      | Best Lap (s) | Gap    |
 |----------|---------------------------------|--------------|--------|
@@ -93,11 +83,7 @@ This page contains the final race standings, including each racer's position, na
 | 19th     | Carla Naccarato                 | 95.145       | +9     |
 | 20th     | Taís Lima                       | 98.769       | +9     |
 
-</div>
-
 ### Group 2 - Qualifying
-
-<div style="overflow-x: auto;">
 
 | Position | Driver Name                      | Best Lap (s) | Gap    |
 |----------|---------------------------------|--------------|--------|
@@ -121,5 +107,3 @@ This page contains the final race standings, including each racer's position, na
 | 18th     | Rodrigo Miranda                 | 80.821       | 32.711 |
 | 19th     | Taís Lima                       | 104.468      | 35.091 |
 | 20th     | Carla Naccarato                 | 102.712      | 35.142 |
-
-</div>
